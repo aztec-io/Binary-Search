@@ -1,0 +1,4 @@
+﻿  Assembling Assembly.asm...
+Assembly.asm(4): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  AssemblyProjects.vcxproj -> C:\Users\Thunder Queef\Documents\Visual Studio 2017\Projects\AssemblyProjects\Debug\AssemblyProjects.exe
+  AssemblyProjects.vcxproj -> C:\Users\Thunder Queef\Documents\Visual Studio 2017\Projects\AssemblyProjects\Debug\AssemblyProjects.pdb (Partial PDB)
