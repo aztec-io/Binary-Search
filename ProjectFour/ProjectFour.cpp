@@ -2,7 +2,6 @@
 //
 // COSC-2425, Project 4
 // ASM Procedure Linking with C++ for Binary Search comparison
-// George A. Driscoll - 8/10/2015
 
 #include <iostream>
 #include <time.h>
